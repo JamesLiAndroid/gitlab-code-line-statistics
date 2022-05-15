@@ -11,3 +11,7 @@ gitlab api接口代码统计
 2. kpi项目，后续可以对接研发平台接口信息上传数据，这里只是生成csv文件，csv文件作为一个依据，可以在接口不能用的时候也能看到统计数据
 3. 提供按天和按月统计，公司内以天为单位统计，最终从研发平台汇总数据
 
+参考地址：
+
+1. https://fairysen.com/542.html
+2. https://www.infoq.cn/article/tmqsgtww26ki0js0svkk
